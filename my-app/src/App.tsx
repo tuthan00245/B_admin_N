@@ -1,5 +1,5 @@
 import { ToastContainer } from 'react-toastify';
-import { Route, Routes } from 'react-router-dom';
+// import { Route, Routes } from 'react-router-dom';
 // import OneSignal from 'react-onesignal';
 
 import ScrollToTop from './layouts/components/ScrollToTop/ScrollToTop';
